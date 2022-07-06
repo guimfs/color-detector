@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import cv2
-
+from helper import run_loader
 
 # Global variables
 clicked = False
@@ -11,8 +11,13 @@ r = 0
 g = 0
 b = 0
 
+# Images paths
+images_list = os.listdir(os.path.join('images'))
+
+# Loading Tkinter to choose your image
+selected_image = run_loader(images_list)
+
 # Reading the image from a paste
-selected_image = 'pinkmoon.jpg'
 image_path = os.path.join('images', selected_image)
 image = cv2.imread(image_path)
 
