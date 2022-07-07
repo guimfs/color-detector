@@ -15,7 +15,7 @@ The color name is searched in the ***[colors.csv]*** database. The script uses *
 
 > *Note 2: To quit the application just press ***esc***.*
 
-##### *Used tools*
+#### **Used tools**
 ``OpenCV``, ``Tkinter``, ``Pandas``
 
 ### **Author**
