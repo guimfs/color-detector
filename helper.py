@@ -4,7 +4,7 @@ from tkinter import ttk
 
 class Loader(tk.Frame):
 
-    selected_image = 'cu'
+    selected_image = ''
 
     def __init__(self, root, list):
         super().__init__(root)

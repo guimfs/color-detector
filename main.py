@@ -3,6 +3,7 @@ import os
 import cv2
 from helper import run_loader
 
+
 # Global variables
 clicked = False
 x_position = 0
