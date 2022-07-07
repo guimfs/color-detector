@@ -19,7 +19,7 @@ The color name is searched in the ***[colors.csv]*** database. The script uses *
 ``OpenCV``, ``Tkinter``, ``Pandas``
 
 ### **Author**
-
+[<img src="https://avatars.githubusercontent.com/u/105020039?v=4" width=115><br><sub>Guilherme</sub>](https://github.com/guimfs)
 
 ### **License**
 The MIT License ([MIT])
