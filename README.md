@@ -20,9 +20,8 @@ The color name is searched in the ***[colors.csv]*** database. The script uses *
 
 ### **Author**
 | [<img src="https://avatars.githubusercontent.com/u/105020039?v=4" width=115><br><sub>Guilherme</sub>](https://github.com/guimfs) |
+| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115>](https://www.linkedin.com/in/guilherme-mfs/) |
 | :---: |
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115>](https://www.linkedin.com/in/guilherme-mfs/)
 
 ### **License**
 The MIT License ([MIT])
