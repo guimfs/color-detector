@@ -13,7 +13,7 @@ The color name is searched in the ***[colors.csv]*** database. The script uses *
 
 > *Note 1: The script resizes the loaded image to fit to OpenCV window. An image with few pixels loaded in a big window will have quality problems. So it is recommended to load high resolution images. You can change the values of height and width according to your setup or preference.*
 
-> *Note 2: To quit the application just press ***esc***
+> *Note 2: To quit the application just press ***esc***.*
 
 ##### *Used tools*
 ``OpenCV``, ``Tkinter``, ``Pandas``
